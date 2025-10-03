@@ -1,0 +1,7 @@
+__pycache__/db_setup.cpython-310.pyc
+db/__pycache__/db_setup.cpython-310.pyc
+gui/__pycache__/__init__.cpython-310.pyc
+gui/__pycache__/module_run.cpython-310.pyc
+gui/__pycache__/module_tab.cpython-310.pyc
+gui/__pycache__/workflow_tab.cpython-310.pyc
+gui/__pycache__/workflow_window.cpython-310.pyc
